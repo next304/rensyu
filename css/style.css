@@ -1,0 +1,19 @@
+#header{
+    height: 500px;
+    background-color: #fc0;
+}
+
+#main{
+    height: 500px;
+    background-color: #0cf;
+}
+
+#sub{
+    height: 500px;
+    background-color: #F00;
+}
+
+#footer{
+    height: 500px;
+    background-color: #ccf;
+}
