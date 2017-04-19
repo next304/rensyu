@@ -10,7 +10,11 @@
 
 #sub{
     height: 500px;
+<<<<<<< HEAD
     background-color: #000;
+=======
+    background-color: #F00;
+>>>>>>> #sub
 }
 
 #footer{
